@@ -6,3 +6,5 @@ void dicoInsererMot(char[], TArbre *);
 int dicoNbOcc(char[], TArbre);
 int dicoNbMotsDifferents(TArbre);
 int dicoNbMotsTotal(TArbre);
+int piocherMot(char *);
+int nombreAleatoire(int);
